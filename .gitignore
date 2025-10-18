@@ -26,8 +26,6 @@ dist-ssr
 *.tsbuildinfo
 .aider*
 
-.env
-.env.*
 package-lock.json
 test-results
 
@@ -37,3 +35,4 @@ yalc.lock
 public/assets
 public/sitemap.xml
 .claude
+config.bat
